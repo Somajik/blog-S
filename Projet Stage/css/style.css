@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    width: 150px !important;
+    height: 150px ! important;
+}
+
+
+/* ul.navbar-nav {
+    color: black !important;
+} */
